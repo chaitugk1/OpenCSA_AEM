@@ -1,0 +1,1 @@
+.\aem_env\Scripts\activate
